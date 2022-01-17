@@ -52,9 +52,49 @@
 {"prompt": "i need a pc to combine music","completion": "You need a good sound system"}
 {"prompt": "i want to buy a pc to have one of the best in the market","completion": "You need a Nvidia"}
 {"prompt": "i need to buy a pc to have a better ping","completion": "You should get a lan cable"}
-{"prompt": "i need to buy a pc to stream on twitch","completion": "You should get a good cam"}
+{"prompt": "i need to buy a pc to stream on twitch","completion": "You should get a good camera"}
 {"prompt": "i want to get a cheap pc for my friend","completion": "You should get a decent graphics card and a decent cpu"}
 {"prompt": "i need to get a computer for my office","completion": "You should get a decent graphics card and a good cpu"}
 {"prompt": "i need to get a computer for my self-made home cinema","completion": "You dont need expensive hardware"}
 {"prompt": "i need to get a computer to cut short-movies","completion": "You need to invest the best graphics card and the best sound system"}
 {"prompt": "i need to get a computer to watch my smartphone-videos","completion": "You need to invest a good graphics card and a good sound system"}
+{"prompt:" "I want to buy a computer that can be used for streaming.", "completion": "You should invest in a good graphics card and cpu."}
+{"prompt:" "I want to buy a computer that can be used for modelling.", "completion": "You should invest in a good graphics card and cpu."}
+{"prompt:" "I want to buy a computer that can be used for drawing.", "completion": "You should invest in a decent graphics."}
+{"prompt:" "I want to buy a computer that can be used for video conversations.", "completion": "You dont need expensive hardware in that case."}
+{"prompt:" "My computer needs to process sensor data quickly.", "completion": "You should invest in expensive cpu."}
+{"prompt:" "My computer needs to have a short boot time.", "completion": "You should invest in a expensive cpu and ssd."}
+{"prompt:" "My computer needs to open files really quickly.", "completion": "You should invest in a expensive cpu and ssd."}
+{"prompt:" "My computer needs to be able to send multiple mails.", "completion": "You should invest in a good cpu."}
+{"prompt:" "I want to buy a computer which is energy efficient.", "completion": "You should invest in lower power consumption parts."}
+{"prompt:" "I want to buy a computer that i can use for traveling.", "completion": "You should invest in a light cpu and graphics card."}
+{"prompt:" "I want to buy a computer that is good for schoolprojects.", "completion": "You should invest in a small and light graphics card and good cpu."}
+{"prompt:" "I want to buy a computer that is not to expensive.", "completion": "You can buy a cheap grahics card and cpu."}
+{"prompt:" "I want to buy the best computer possible.", "completion": "You should invest in the most expensive graphics card and cpu."}
+{"prompt:" "My computer needs to be able to run C# programs.", "completion": "You dont need expensive hardware to run simple programs."}
+{"prompt:" "My computer needs to be able to run C++ programs.", "completion": "You dont need expensive hardware to run simple programs."}
+{"prompt:" "My computer needs to be able to run Python programs.", "completion": "You dont need expensive hardware to run simple programs."}
+{"prompt:" "My computer needs to be able to run Java programs.", "completion": "You dont need expensive hardware to run simple programs."}
+{"prompt:" "My computer needs to be able to create webapplications.", "completion": "You dont need expensive hardware to run simple programs."}
+{"prompt:" "My computer needs to be able to run office programs.", "completion": "You dont need expensive hardware to use office."}
+{"prompt:" "My computer needs to be able to run Autodesk programs.", "completion": "You should invest in a good graphics card and a good cpu."}
+{"prompt:" "My computer needs to be able to run Unity applications.", "completion": "You should invest in a good graphics card and a good cpu."}
+{"prompt:" "My computer needs to be able to run Unreal engine applications.", "completion": "You should invest in a good graphics card and a good cpu."}
+{"prompt:" "what part is most important", "completion": "a decent cpu is always important, for gaming a good graphics card is essential"}
+{"prompt:" "what part can i save on", "completion": "if you dont do video editing ore gaming, the graphics card is not that important"}
+{"prompt:" "which part can i save on", "completion": "if you dont do video editing ore gaming, the graphics card is not that important"}
+{"prompt:" "what hardware is not needed", "completion": "if you dont do video editing ore gaming, the graphics card is not that important"}
+{"prompt:" "which part is the most important one", "completion": "a decent cpu is always important, for gaming a good graphics card is essential"}
+{"prompt": "i want to buy a computer that has excel", "completion": "Excel is a software in computer than you can install"}
+{"prompt": "i want to buy a computer that is good for graphic desing", "completion": "You need a computer with good craphics card and good cpu with a good amount of RAM"}
+{"prompt": "I want to use my computer for playing games", "completion":"You need good graphics card and cpu"}
+{"prompt": "I want to use my computer for only paying bills", "completion":"Any modern computer can be used for this task"}
+{"prompt": "I want to use my computer without connecting it to internet with cable", "completion":"You need a computer with good wifi-card"}
+{"prompt": "I want to use my computer to play fornite", "completion":"You need a computer with good graphics card and good cpu"}
+{"prompt": "I want to use my computer to store alot of files", "completion":"You need a computer with a good memory card"}
+{"prompt": "I want to use my computer to edit videos and photograph ", "completion":"You need a computer with good craphics card and good cpu with a good amount of RAM"}
+{"prompt": "I want to use my computer to programming", "completion":"All modern computer can be used for this task"}
+{"prompt": "I want to use my computer to watch videos", "completion":"All modern computer can be used for this task"}
+{"prompt": "I want to use my computer to use facebook", "completion":"You will also need a internet connection contract"}
+{"prompt": "I want to use my computer to studying", "completion":"You need to find out what kind of software you require for your task before making decision"}
+{"prompt": "I want to use my computer to work remotely", "completion":"You need to find out what kind of software you require for your task before making decision"}
